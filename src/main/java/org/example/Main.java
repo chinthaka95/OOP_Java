@@ -39,5 +39,7 @@ public class Main {
         System.out.println(ud1.getAge());
         System.out.println(ud1.getAddress());
         System.out.println(ud1.getScholership());
+
+        System.out.println("====================");
     }
 }
